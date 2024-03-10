@@ -1,3 +1,3 @@
-# AndelaSkillsSeries_AI_ML
+# Andela Skills Series AI/ML
 
 ...
