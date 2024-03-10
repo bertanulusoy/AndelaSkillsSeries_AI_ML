@@ -1,0 +1,11 @@
+# .env is the environment file
+.env
+
+# .venv is the virtual environment directory
+.venv
+
+# .idea is the PyCharm project directory
+.idea
+
+# poetry lock file
+poetry.lock
