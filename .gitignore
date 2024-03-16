@@ -9,3 +9,6 @@
 
 # poetry lock file
 poetry.lock
+
+# Chroma database
+Project2: QA_PrivateDocs/chroma_db
