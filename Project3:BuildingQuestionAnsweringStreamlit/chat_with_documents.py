@@ -102,7 +102,7 @@ if __name__ == "__main__":
         add_data = st.button('Add Data', on_click=clear_history)
 
         if uploaded_file and add_data:
-            with st.    spinner('Reading, chunking and embedding file ...'):
+            with st.spinner('Reading, chunking and embedding file ...'):
                 bytes_data = uploaded_file.read()
                 file_name = os.path.join('./files/', uploaded_file.name)
                 with open(file_name, 'wb') as f:
